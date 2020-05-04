@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <div className="App-header">
         <p>Test that app Works!</p>
+        <p class="first">Test 2</p>
       </div>
     </div>
   );
