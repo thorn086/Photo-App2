@@ -1,0 +1,14 @@
+.navbar_items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+#Login, #signup{
+    height: auto;
+    width: 5rem;
+    padding:6px
+}
+.navbar_btns{
+    padding-left: 4rem;
+}
